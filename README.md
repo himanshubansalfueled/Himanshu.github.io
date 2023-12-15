@@ -22,13 +22,13 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
 3. Tap on ellipsis
 4. Tap on Search
 5. Enter the coordinates
-6.Enable the “Allow Mock location” in Developer option by selecting Fake GPS APP IN Select mock location app option
-7.Tap on play when you want to start 
-8.Tap on pause when you want to stop
+6. Enable the “Allow Mock location” in Developer option by selecting Fake GPS APP IN Select mock location app option
+7. Tap on play when you want to start 
+8. Tap on pause when you want to stop
 
 ## Location spoofing in iOS
 Developers had provided option to select the particular park from the app setting directly
-Steps:
+## Steps:
 Tap on Home park
 Select the home park from the list
 Selected park location is applied and park home screen is displayed in the app
@@ -36,6 +36,6 @@ Selected park location is applied and park home screen is displayed in the app
 ## Location spoofing using Browserstack
 Location can be changed using Browserstack in both Android and iOS devices.
 Steps to change location:
-1.Click on Change location
-2.Enter the latitude and longitude
-3.Confirm the location by clicking on Yes
+1. Click on Change location
+2. Enter the latitude and longitude
+3. Confirm the location by clicking on Yes.
