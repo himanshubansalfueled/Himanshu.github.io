@@ -39,3 +39,5 @@ Steps to change location:
 1. Click on Change location
 2. Enter the latitude and longitude
 3. Confirm the location by clicking on Yes.
+
+For uploading image we will need to have a folder and upload image in that folder and reference path as mentioned here - https://www.markdownguide.org/basic-syntax/#images-1
