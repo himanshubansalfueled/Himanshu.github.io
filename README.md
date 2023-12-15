@@ -1,4 +1,4 @@
-## Location spoofing
+# Location spoofing
 
 ## Geo Location
 Geolocation refers to the use of location technologies such as GPS or IP addresses to identify and track the whereabouts of connected electronic devices.Geolocation is frequently used to track people's movements and locations as well as for surveillance purposes because people frequently carry these devices.
