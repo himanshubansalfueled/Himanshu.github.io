@@ -17,11 +17,11 @@ The main purpose of location spoofing in testing is to create several situations
 Fake GPS is a reliable and convenient best fake location app. In only a few clicks, you can choose your ideal place from all over the world. Because it supports multiple Maps, the Fake GPS app allows you to choose a location anywhere in the world. 
 
 ## Steps to spoof location
-1.Install the app
-2.Open the app
-3.Tap on ellipsis
-4.Tap on Search
-5.Enter the coordinates
+1. Install the app
+2. Open the app
+3. Tap on ellipsis
+4. Tap on Search
+5. Enter the coordinates
 6.Enable the “Allow Mock location” in Developer option by selecting Fake GPS APP IN Select mock location app option
 7.Tap on play when you want to start 
 8.Tap on pause when you want to stop
