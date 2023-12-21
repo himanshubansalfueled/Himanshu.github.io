@@ -18,7 +18,10 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
 
 ## Steps to spoof location
 1. Install the app
-![App Installation!](/Images/ImageFG1.png "Install App")
+<figure>
+    <img src="/Images/ImageFG1.png" width="200" height="100"
+         alt="App Installation">
+</figure>
 2. Open the app
 ![App Launch!](/Images/ImageFG2.png "Launch App")
 3. Tap on ellipsis
