@@ -88,5 +88,3 @@ Steps to change location:
     <img src="/Images/ImageBS3.png" width="250" height="200"
          alt="Browserstack 3">
 </figure>
-
-For uploading image we will need to have a folder and upload image in that folder and reference path as mentioned here - https://www.markdownguide.org/basic-syntax/#images-1
