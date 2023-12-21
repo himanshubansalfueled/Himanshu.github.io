@@ -18,13 +18,22 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
 
 ## Steps to spoof location
 1. Install the app
+![App Installation!](/Images/ImageFG1.png "Install App")
 2. Open the app
+![App Launch!](/Images/ImageFG2.png "Launch App")
 3. Tap on ellipsis
+![App options!](/Images/ImageFG3.png "App options")
 4. Tap on Search
 5. Enter the coordinates
+![Enter coordinates!](/Images/ImageFG5.png "Enter coordinates")
 6. Enable the “Allow Mock location” in Developer option by selecting "Fake GPS" app in Select mock location app option.
-7. Tap on play when you want to start
-8. Tap on pause when you want to stop
+![Allow Mock Location 1!](/Images/ImageFG6-1.png "Allow Mock Location 1")
+![Allow Mock Location 2!](/Images/ImageFG6-2.png "Allow Mock Location 2")
+![Allow Mock Location 3!](/Images/ImageFG6-3.png "Allow Mock Location 3")
+7. Tap on play icon when you want to start
+![Start mocking!](/Images/ImageFG7.png "Start mocking")
+8. Tap on pause icon when you want to stop
+![Stop mocking!](/Images/ImageFG8.png "Stop mocking")
 
 ## Location spoofing in iOS
 Developers can provide an option to enter coordinates from app settings which can be used to mock location programatically.
@@ -38,10 +47,10 @@ Developers can provide an option to enter coordinates from app settings which ca
 Location can be changed using Browserstack in both Android and iOS devices.
 Steps to change location:
 1. Click on Change location
-![Browserstack 1!](/Images/Image2.png "Browserstack 1")
+![Browserstack 1!](/Images/ImageBS1.png "Browserstack 1")
 2. Enter the latitude and longitude
-![Browserstack 2!](/Images/Image3.png "Browserstack 2")
+![Browserstack 2!](/Images/ImageBS2.png "Browserstack 2")
 3. Confirm the location by clicking on Yes
-![Browserstack 3!](/Images/Image3.png "Browserstack 3")
+![Browserstack 3!](/Images/ImageBS3.png "Browserstack 3")
 
 For uploading image we will need to have a folder and upload image in that folder and reference path as mentioned here - https://www.markdownguide.org/basic-syntax/#images-1
