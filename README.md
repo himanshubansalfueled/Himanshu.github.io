@@ -38,9 +38,9 @@ Developers can provide an option to enter coordinates from app settings which ca
 Location can be changed using Browserstack in both Android and iOS devices.
 Steps to change location:
 1. Click on Change location
-![Browserstack 1!](/Images/Image1.png "Browserstack 1")
+![Browserstack 1!](/Images/Image2.png "Browserstack 1")
 2. Enter the latitude and longitude
-![Browserstack 2!](/Images/Image2.png "Browserstack 2")
+![Browserstack 2!](/Images/Image3.png "Browserstack 2")
 3. Confirm the location by clicking on Yes
 ![Browserstack 3!](/Images/Image3.png "Browserstack 3")
 
