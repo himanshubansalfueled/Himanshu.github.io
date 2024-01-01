@@ -1,16 +1,14 @@
 # Location spoofing
-
-## Geo Location
-Geolocation refers to the use of location technologies such as GPS or IP addresses to identify and track the whereabouts of connected electronic devices.Geolocation is frequently used to track people's movements and locations as well as for surveillance purposes because people frequently carry these devices.
-
-## Geolocation Testing
-Geolocation testing checks your application in different geographic locations to ensure that it meets all  legal requirements related to those locations and  works as expected regardless of location. This includes checking the validity of the application in each geographic location where it may be used. Check the application  efficiency and performance of IP in various locations.
-
-## Location Spoofing
-Location Spoofing refers to the act of faking or manipulating the GPS coordinates of a device to make it appear as though it is in a different location than it actually is.
+Location spoofing is a form of interference which makes the receiver believe, user is at a false location. It is the act of faking or manipulating the GPS coordinates of a device and is helpful as a user can spoof their current location and be at a spoofed location.
 
 ## Need for location spoofing
 The main purpose of location spoofing in testing is to create several situations and places in order to assess how a service or application performs under various circumstances.
+
+## Geo Location
+Geolocation refers to the use of location technologies such as GPS or IP addresses to identify and track the whereabouts of connected electronic devices. Geolocation is frequently used to track people's movements and locations as well as for surveillance purposes because people frequently carry these devices.
+
+## Geolocation Testing
+Geolocation testing checks your application in different geographic locations to ensure that it meets all  legal requirements related to those locations and  works as expected regardless of location. This includes checking the validity of the application in each geographic location where it may be used. Check the application  efficiency and performance of IP in various locations.
 
 ## Location Spoofing in Android
 ## Fake GPS App
@@ -88,3 +86,8 @@ Steps to change location:
     <img src="/Images/ImageBS3.png" width="250" height="200"
          alt="Browserstack 3">
 </figure>
+
+## Example of spoofing location for testing
+
+We did perform location spoofing for testing an adventure park mobile application to mimic different behaviours such as user being at the park or when user is away from the park.
+For testing such scenarios, we used the above described approach for testing.
