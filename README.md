@@ -35,7 +35,7 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
     <img src="/Images/ImageFG5.png" width="150" height="200"
          alt="Enter coordinates">
 </figure>
-6. Enable the “Allow Mock location” in Developer option by selecting "Fake GPS" app in Select mock location app option.
+6. Set the mock location in Developer option by selecting "Fake GPS" app in Select mock location app option.
 <figure>
     <img src="/Images/ImageFG6-1.png" width="150" height="200"
          alt="Allow Mock Location 1">
@@ -60,12 +60,16 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
 </figure>
 
 ## Location spoofing in iOS
-In iOS, it is a bit tricky to spoof locations so developers provide an option to enter coordinates from app settings or select locations from list which can be used to mock location programatically.
+In iOS, it is a bit tricky to spoof locations so developers provide an option in development builds to enter coordinates from app settings or select locations from list which can be used to mock location programatically.
 
 ## Steps
 1. Install the app.
 2. Open app settings from native iOS Settings app.
 3. You will find an option to enter coordinates(If added by developer).
+<figure>
+    <img src="/Images/ImageiOS.png" width="250" height="200"
+         alt="iOS Mock Location">
+</figure>
 4. Save the values entered and on launching app now, you can see mocked location. 
 
 ## Location spoofing using <a href="https://www.browserstack.com/docs/app-live/location-testing/geolocation-testing">Browserstack App Live</a>
