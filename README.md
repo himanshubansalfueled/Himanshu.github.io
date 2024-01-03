@@ -15,23 +15,24 @@ Geolocation testing checks your application in different geographic locations to
 Fake GPS is a reliable and convenient best fake location app. In only a few clicks, you can choose your ideal place from all over the world. Because it supports multiple Maps, the Fake GPS app allows you to choose a location anywhere in the world. 
 
 ## Steps to spoof location
-1. Install the app
+1. Install the app from <a href="https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en&gl=US">play store</a>.
 <figure>
     <img src="/Images/ImageFG1.png" width="150" height="200"
          alt="App Installation">
 </figure>
-2. Open the app
+2. Open the app.
 <figure>
     <img src="/Images/ImageFG2.png" width="150" height="200"
          alt="App Launch">
 </figure>
-3. Tap on ellipsis
+3. Tap on ellipsis on top right corner.
 <figure>
     <img src="/Images/ImageFG3.png" width="150" height="200"
          alt="App options">
 </figure>
-4. Tap on Search
-5. Enter the coordinates
+4. Tap on Search.
+
+5. Enter the coordinates.
 <figure>
     <img src="/Images/ImageFG5.png" width="150" height="200"
          alt="Enter coordinates">
@@ -49,12 +50,12 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
     <img src="/Images/ImageFG6-3.png" width="150" height="200"
          alt="Allow Mock Location 3">
 </figure>
-7. Tap on play icon when you want to start
+7. Tap on play icon in menu bar when you want to start.
 <figure>
     <img src="/Images/ImageFG7.png" width="150" height="200"
          alt="Start mocking">
 </figure>
-8. Tap on pause icon when you want to stop
+8. Tap on pause icon in menu bar when you want to stop.
 <figure>
     <img src="/Images/ImageFG8.png" width="150" height="200"
          alt="Stop mocking">
@@ -65,23 +66,23 @@ Developers can provide an option to enter coordinates from app settings which ca
 ## Steps
 1. Install the app.
 2. Open app settings from Settings app.
-3. You will find an option to enter coordinates(If added by developer)
+3. You will find an option to enter coordinates(If added by developer).
 4. Save the values entered and on launching app now, you can see mocked location. 
 
-## Location spoofing using Browserstack
+## Location spoofing using <a href="https://www.browserstack.com/docs/app-live/location-testing/geolocation-testing">Browserstack App Live</a>
 Location can be changed using Browserstack in both Android and iOS devices.
 Steps to change location:
-1. Click on Change location
+1. Click on Change location.
 <figure>
     <img src="/Images/ImageBS1.png" width="250" height="200"
          alt="Browserstack 1">
 </figure>
-2. Enter the latitude and longitude
+2. Enter the latitude and longitude.
 <figure>
     <img src="/Images/ImageBS2.png" width="250" height="200"
          alt="Browserstack 2">
 </figure>
-3. Confirm the location by clicking on Yes
+3. Confirm the location by clicking on Yes.
 <figure>
     <img src="/Images/ImageBS3.png" width="250" height="200"
          alt="Browserstack 3">
