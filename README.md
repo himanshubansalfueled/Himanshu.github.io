@@ -30,8 +30,7 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
     <img src="/Images/ImageFG3.png" width="150" height="200"
          alt="App options">
 </figure>
-4. Tap on Search.
-
+4. Tap on Search.\
 5. Enter the coordinates.
 <figure>
     <img src="/Images/ImageFG5.png" width="150" height="200"
@@ -62,10 +61,11 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
 </figure>
 
 ## Location spoofing in iOS
-Developers can provide an option to enter coordinates from app settings which can be used to mock location programatically.
+In iOS, it is a bit tricky to spoof locations so developers provide an option to enter coordinates from app settings or select locations from list which can be used to mock location programatically.
+
 ## Steps
 1. Install the app.
-2. Open app settings from Settings app.
+2. Open app settings from native iOS Settings app.
 3. You will find an option to enter coordinates(If added by developer).
 4. Save the values entered and on launching app now, you can see mocked location. 
 
@@ -92,3 +92,8 @@ Steps to change location:
 
 We did perform location spoofing for testing an adventure park mobile application to mimic different behaviours such as user being at the park or when user is away from the park.
 For testing such scenarios, we used the above described approach for testing.
+
+A realtime scenario where location spoofing was needed is in food ordering.
+Our app had a module wherein the user could place food order from mobile app only if they are at the park else the user can browse through restaurants and menu but cannot place order. 
+
+To test placing food orders from different locations and restaurants, we had to spoof our location and ensure the functionality is working as intended.
