@@ -30,8 +30,7 @@ Fake GPS is a reliable and convenient best fake location app. In only a few clic
     <img src="/Images/ImageFG3.png" width="150" height="200"
          alt="App options">
 </figure>
-4. Tap on Search.\
-5. Enter the coordinates.
+4. Tap on Search.<br/>5. Enter the coordinates.
 <figure>
     <img src="/Images/ImageFG5.png" width="150" height="200"
          alt="Enter coordinates">
