@@ -12,7 +12,7 @@ Geolocation testing checks your application in different geographic locations to
 
 ## Location Spoofing in Android
 ## Fake GPS App
-Fake GPS is a reliable and convenient best fake location app. In only a few clicks, you can choose your ideal place from all over the world. Because it supports multiple Maps, the Fake GPS app allows you to choose a location anywhere in the world. 
+Fake GPS is a reliable and convenient best fake location app. In only a few clicks, you can choose your ideal place from all over the world as it supports multiple locations, the Fake GPS app allows you to choose a location anywhere in the world. 
 
 ## Steps to spoof location
 1. Install the app from <a href="https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=en&gl=US">play store</a>.
