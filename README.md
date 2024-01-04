@@ -66,7 +66,7 @@ In iOS, it is a bit tricky to spoof locations so developers provide an option in
 1. Install the app.
 2. Open app settings from native iOS Settings app.
 <figure>
-    <img src="/Images/ImageiOS1.png" width="250" height="200"
+    <img src="/Images/ImageiOS2.png" width="250" height="200"
          alt="iOS native app settings">
 </figure>
 3. You will find an option to enter coordinates(If added by developer).
