@@ -104,3 +104,44 @@ A realtime scenario where location spoofing was needed is in food ordering.
 Our app had a module wherein the user could place food order from mobile app only if they are at the park else the user can browse through restaurants and menu but cannot place order. 
 
 To test placing food orders from different locations and restaurants, we had to spoof our location and ensure the functionality is working as intended.
+
+## Location spoofing on chrome browser
+Location can be spoofed on chrome browser using developer tools.
+Steps to change location:
+1. Open the website where the location is to be spoofed.
+2. Press command+option+J to open Developer tool or Right click and click on Inspect to open Developer tool.
+3. Click the three vertical dots in the upper right of the developer tools panel.
+4. Click on More tools and then click on Sensors.
+<figure>
+    <img src="/Images/ImageC1.png" width="250" height="200"
+         alt="Chrome Developer tools">
+</figure>
+5. Click on Manage.
+<figure>
+    <img src="/Images/ImageC2.png" width="250" height="200"
+         alt="Manage Developer Tools">
+</figure>
+6. Click on Add Location.
+<figure>
+    <img src="/Images/ImageC3.png" width="250" height="200"
+         alt="Add Location Developer tools">
+</figure>
+7. Add name, latitude and longitude of the location and then click on Add button.
+<figure>
+    <img src="/Images/ImageC4.png" width="250" height="200"
+         alt="Add info">
+</figure>
+8. Click on cancel icon and select the added location.
+<figure>
+    <img src="/Images/ImageC5.png" width="250" height="200"
+         alt="Cancel">
+</figure>
+<figure>
+    <img src="/Images/ImageC6.png" width="250" height="200"
+         alt="Close added location">
+</figure>
+9. To verify the location has been updated, try fetching current location and you should see updated location. 
+<figure>
+    <img src="/Images/ImageC7.png" width="250" height="200"
+         alt="Check location again">
+</figure>
