@@ -106,7 +106,7 @@ Our app had a module wherein the user could place food order from mobile app onl
 To test placing food orders from different locations and restaurants, we had to spoof our location and ensure the functionality is working as intended.
 
 ## Location spoofing on chrome browser
-Location can be spoofed on chrome browser using developer tools.
+Location can be spoofed on chrome browser using developer tools.</br>
 Steps to change location:
 1. Open the website where the location is to be spoofed.
 2. Press command+option+J to open Developer tool or Right click and click on Inspect to open Developer tool.
